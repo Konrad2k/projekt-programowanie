@@ -1,0 +1,10 @@
+﻿  projekt.cpp
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(152,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(198,21): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(201,19): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(203,42): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(227,29): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(230,27): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(232,54): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+C:\Users\konra\Desktop\muzyka\projekt\projekt\projekt.cpp(124): warning C4715: "odpowiedz”: niewszystkie ścieżki kodu zwracają wartość
+  projekt.vcxproj -> C:\Users\konra\Desktop\muzyka\projekt\Debug\projekt.exe
