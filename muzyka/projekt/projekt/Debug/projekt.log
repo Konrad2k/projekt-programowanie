@@ -3,4 +3,5 @@ C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\pr
 C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\projekt\projekt.cpp(276,25): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
 C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\projekt\projekt.cpp(279,23): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
 C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\projekt\projekt.cpp(286,50): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
-C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\projekt\projekt.cpp(333,56): error C2065: "n": niezadeklarowany identyfikator
+C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\projekt\projekt.cpp(205): warning C4715: "odpowiedz”: niewszystkie ścieżki kodu zwracają wartość
+  projekt.vcxproj -> C:\Users\konra\OneDrive\Documents\GitHub\projekt-programowanie\muzyka\projekt\Debug\projekt.exe
